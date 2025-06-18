@@ -5,3 +5,5 @@ h1.innerText = "This is Frank's Page";
 h1.style.fontFamily = "Georgia, serif"
 root.appendChild(h1);
 
+root.style
+
