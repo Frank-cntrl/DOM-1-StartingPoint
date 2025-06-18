@@ -15,7 +15,6 @@ links.forEach(({ text, url }) => {
   const a = document.createElement("a");
   a.href = url;
   a.textContent = text;
-  a.target = "_blank";
   a.style.display = "block";
   a.style.display = "inline-block" 
   a.style.marginRight = "40px"
