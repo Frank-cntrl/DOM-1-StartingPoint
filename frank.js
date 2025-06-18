@@ -29,8 +29,6 @@ root.appendChild(h1);
 
 root.style.textAlign = "center";
 root.style.marginTop = "50px";
-root.style.marginLeft = "400px";
-root.style.marginRight = "400px";
 root.style.backgroundColor = "lightblue";
 
 const p = document.createElement("p");
