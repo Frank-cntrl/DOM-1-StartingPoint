@@ -20,7 +20,6 @@ links.forEach(({ text, url }) => {
   a.style.display = "inline-block" 
   a.style.marginRight = "40px"
   root.appendChild(a);
-
 });
 
 h2.innerText =
